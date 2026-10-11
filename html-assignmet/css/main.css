@@ -27,3 +27,7 @@ nav a {
     background-color: violet;
     border: 1px solid black;
 }
+
+nav a:hover, nav a:focus {
+    background-color: lightblue;
+}
