@@ -14,3 +14,7 @@ header, footer { background-color: pink; }
 #Hobbies {
     list-style-type: square;
 }
+
+#Hobbies li:nth-child(odd) {
+    background-color: lightblue;
+}
