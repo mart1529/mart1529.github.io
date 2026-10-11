@@ -24,4 +24,6 @@ nav ul {
 
 nav a {
     text-decoration: none;
+    background-color: violet;
+    border: 1px solid black;
 }
