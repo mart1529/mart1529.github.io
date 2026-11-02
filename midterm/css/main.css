@@ -3,5 +3,10 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: rgba(232, 186, 99, 0.922);
+    background-color: coral;
+}
+.wrapper {
+    max-width: 800px;
+    background-color:bisque;
+    margin: 0 auto;
 }
