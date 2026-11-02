@@ -25,4 +25,14 @@ body {
 
 .header-container h1 {
     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+header-container nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    gap: 20px;
 }
