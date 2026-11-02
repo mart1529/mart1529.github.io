@@ -91,10 +91,13 @@ textarea {
     box-sizing: border-box;
 }
 
-footer p {
+footer{
     font-size: 0.8rem;
     margin-top: 15px;
     margin-left: 5px;
+}
+h3 {
+    margin-left: 20px;
 }
 
 
