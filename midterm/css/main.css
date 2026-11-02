@@ -1,12 +1,28 @@
 *{
     box-sizing: border-box;
 }
+
+html {
+    font-size: 18px;
+}
+
+
 body {
     font-family: Arial, sans-serif;
-    background-color: coral;
+    background-color:rgb(252, 118, 69);
 }
+
+
 .wrapper {
     max-width: 800px;
-    background-color:bisque;
+    background-color:rgb(235, 144, 111);
     margin: 0 auto;
+}
+
+.header-container { 
+    position: relative;
+}
+
+.header-container h1 {
+    position: absolute;
 }
