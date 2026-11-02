@@ -28,6 +28,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 3rem;
+    color: white;
 }
 
 header-container nav ul {
@@ -36,3 +38,25 @@ header-container nav ul {
     list-style-type: none;
     gap: 20px;
 }
+
+.header-container img {
+width: 100%;
+height: auto;
+}
+
+.header-container nav  li {
+      /* change block level property*/
+      display: inline-block;
+      width: 250px;
+      /*usually change text the link*/
+      font-size: 1.5rem;
+      text-align: center;
+      border-right: 1px solid  black;
+      padding: 1rem;
+}
+
+
+
+
+
+    
